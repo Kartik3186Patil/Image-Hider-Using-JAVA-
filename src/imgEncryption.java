@@ -7,7 +7,7 @@ import java.io.FileOutputStream;
 public class imgEncryption {
     public static void main(String[] args) {
         JFrame f=new JFrame();
-        f.setTitle("Image Compression");
+        f.setTitle("Image Encryption");
         f.setSize(400,400);
         f.setLocationRelativeTo(null);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
