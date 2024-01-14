@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 
-public class imgCompression {
+public class imgEncryption {
     public static void main(String[] args) {
         JFrame f=new JFrame();
         f.setTitle("Image Compression");
